@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".github/bethehero.svg" width="200px" />
+    <img alt="Semana OmniStack" src=".github/bethehero.svg" width="250px" />
 </h1>
 
 ## 🤔  O que é esse projeto?

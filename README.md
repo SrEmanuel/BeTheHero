@@ -1,5 +1,5 @@
 <h1 align="center">
-    Be The Hero!
+    Be The Hero!<br>
     <img alt="Semana OmniStack" src=".github/bethehero.svg" width="200px" />
 </h1>
 

@@ -11,5 +11,5 @@ Criado durante a [11ª Semana OmniStack](https://rocketseat.com.br/week/inscrica
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE).
 
 ---
-Feito com muito ❤  por Emanuel Martins<br>
+Feito com muito ❤  por [Emanuel Martins](https://github.com/SrEmanuel)<br>
 Imagens e modelo do README retirado do repositório do [Mateus Garcia](https://github.com/mpgxc)

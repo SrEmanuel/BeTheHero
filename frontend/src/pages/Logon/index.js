@@ -6,14 +6,14 @@ import heroesImg from '../../assets/heroes.png';
 import logoImg from '../../assets/logo.svg';
 export default function Logon(){
     return(
-        <div className="logon-cointainer">
+        <div className="logon-container">
             <section className="form">
                 <img src={logoImg} alt="Be The Hero!"/>
 
                 <form>
                     <h1>Faça seu logon</h1>
                     <input placeholder="Sua ID"/>
-                    <button type="submit">Entrar</button>
+                    <button className="button" type="submit">Entrar</button>
 
 
                     <a href="/register">
